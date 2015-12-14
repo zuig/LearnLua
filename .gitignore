@@ -5,3 +5,8 @@ Desktop.ini
 
 Library
 Temp
+
+.vs/
+*.csproj
+*.sln
+obj/
